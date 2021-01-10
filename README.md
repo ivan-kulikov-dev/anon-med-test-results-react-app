@@ -6,5 +6,5 @@ react native app (browser or pc or android app) for remove name, age, older name
 
 # supported med test results
 
-*) invito not supported now
-*) cmd not supported now
+1) invito not supported now TODO
+2) cmd not supported now TODO
